@@ -45,8 +45,3 @@ npm run dev
 Technologies used in the project:
 
 *   NextJS
-
-  [url=https://ibb.co/sd9GD8Br][img][/img][/url]
-[url=https://ibb.co/bGt9grt][img][/img][/url]
-[url=https://ibb.co/qL1dBt25][img][/img][/url]
-[url=https://ibb.co/sJC4p1Sq][img][/img][/url]
